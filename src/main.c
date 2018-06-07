@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2014, Michael Savage <mike@mikejsavage.co.uk>
+ * Copyright (c) 2015, Michael Savage <mike@mikejsavage.co.uk>
  *
  * Permission to use, copy, modify, and/or distribute this software for any
  * purpose with or without fee is hereby granted, provided that the above
@@ -13,8 +13,6 @@
  * OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN
  * CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 */
-
-#include <sys/types.h>
 
 #include <pwd.h>
 
