@@ -1,17 +1,17 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "bcrypt"
-version = "2.1-2"
+version = "2.1-3"
 
 -- LuaDist source
 source = {
-  tag = "2.1-2",
+  tag = "2.1-3",
   url = "git://github.com/LuaDist-testing/bcrypt.git"
 }
 -- Original source
 -- source = {
 -- 	url = "git://github.com/mikejsavage/lua-bcrypt.git",
--- 	tag = "v2.1-2",
+-- 	tag = "v2.1-3",
 -- }
 
 description = {
