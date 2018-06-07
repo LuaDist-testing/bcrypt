@@ -1,8 +1,9 @@
 package = "bcrypt"
-version = "scm-1"
+version = "2.0-1"
 
 source = {
 	url = "git://github.com/mikejsavage/lua-bcrypt.git",
+	tag = "v2.0",
 }
 
 description = {
