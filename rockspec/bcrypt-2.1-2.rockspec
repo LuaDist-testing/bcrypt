@@ -1,18 +1,10 @@
--- This file was automatically generated for the LuaDist project.
-
 package = "bcrypt"
-version = "2.1-1"
+version = "2.1-2"
 
--- LuaDist source
 source = {
-  tag = "2.1-1",
-  url = "git://github.com/LuaDist-testing/bcrypt.git"
+	url = "git://github.com/mikejsavage/lua-bcrypt.git",
+	tag = "v2.1-2",
 }
--- Original source
--- source = {
--- 	url = "git://github.com/mikejsavage/lua-bcrypt.git",
--- 	tag = "v2.1",
--- }
 
 description = {
 	summary = "A Lua wrapper for bcrypt",
